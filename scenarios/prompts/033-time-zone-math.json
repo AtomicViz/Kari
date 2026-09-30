@@ -1,0 +1,48 @@
+{
+  "id": 33,
+  "title": "Time-zone math",
+  "model": "seedream_v5_pro",
+  "resolution": "1.5k",
+  "images": [
+    {
+      "file": "16x9/start.png",
+      "aspect_ratio": "16:9",
+      "prompt": "Three small desk clocks set to different hours, one meeting card sliding between them. Calm, controlled, readable composition. One recognizable problem, nothing escalated yet. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/end.png",
+      "aspect_ratio": "16:9",
+      "prompt": "The clock hands catch on each other, gears grind, and the meeting card is dragged into the dark overnight slot. The same mechanism mid-disaster. The chain reaction is physically traceable back to its source. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/carnival.png",
+      "aspect_ratio": "16:9",
+      "prompt": "A spinning teacup ride where each cup is a clock face turning at its own speed, the meeting card tossed cup to cup. The broken workflow rebuilt as a literal miniature amusement ride or circus mechanism in graphite metal and frosted acrylic. The ride expresses the office process itself. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/apocalypse.png",
+      "aspect_ratio": "16:9",
+      "prompt": "Toppled clock towers across a dim plain; a lime gear train is laying a single synchronized drive shaft between them. Wide, large-scale ruin long after the collapse. The original source is hard to identify but evidence of the disorder is embedded in the wreckage. Lime recovery rigs are beginning to reconnect the pieces. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/start.png",
+      "aspect_ratio": "9:16",
+      "prompt": "Three small desk clocks set to different hours, one meeting card sliding between them. Calm, controlled, readable composition. One recognizable problem, nothing escalated yet. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/end.png",
+      "aspect_ratio": "9:16",
+      "prompt": "The clock hands catch on each other, gears grind, and the meeting card is dragged into the dark overnight slot. The same mechanism mid-disaster. The chain reaction is physically traceable back to its source. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/carnival.png",
+      "aspect_ratio": "9:16",
+      "prompt": "A spinning teacup ride where each cup is a clock face turning at its own speed, the meeting card tossed cup to cup. The broken workflow rebuilt as a literal miniature amusement ride or circus mechanism in graphite metal and frosted acrylic. The ride expresses the office process itself. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/apocalypse.png",
+      "aspect_ratio": "9:16",
+      "prompt": "Toppled clock towers across a dim plain; a lime gear train is laying a single synchronized drive shaft between them. Wide, large-scale ruin long after the collapse. The original source is hard to identify but evidence of the disorder is embedded in the wreckage. Lime recovery rigs are beginning to reconnect the pieces. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    }
+  ]
+}

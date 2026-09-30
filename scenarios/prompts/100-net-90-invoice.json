@@ -1,0 +1,48 @@
+{
+  "id": 100,
+  "title": "Net-90 invoice",
+  "model": "seedream_v5_pro",
+  "resolution": "1.5k",
+  "images": [
+    {
+      "file": "16x9/start.png",
+      "aspect_ratio": "16:9",
+      "prompt": "An invoice envelope resting in a waiting tray. Calm, controlled, readable composition. One recognizable problem, nothing escalated yet. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/end.png",
+      "aspect_ratio": "16:9",
+      "prompt": "Reminder envelopes pile on top; the tray sinks under the weight. The same mechanism mid-disaster. The chain reaction is physically traceable back to its source. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/carnival.png",
+      "aspect_ratio": "16:9",
+      "prompt": "A slow snail-race attraction where invoice envelopes creep along lanes. The broken workflow rebuilt as a literal miniature amusement ride or circus mechanism in graphite metal and frosted acrylic. The ride expresses the office process itself. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "16x9/apocalypse.png",
+      "aspect_ratio": "16:9",
+      "prompt": "A frozen racetrack buried in reminders; a lime conveyor moves the first invoice across the line. Wide, large-scale ruin long after the collapse. The original source is hard to identify but evidence of the disorder is embedded in the wreckage. Lime recovery rigs are beginning to reconnect the pieces. Wide landscape composition, eye-level three-quarter camera. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/start.png",
+      "aspect_ratio": "9:16",
+      "prompt": "An invoice envelope resting in a waiting tray. Calm, controlled, readable composition. One recognizable problem, nothing escalated yet. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/end.png",
+      "aspect_ratio": "9:16",
+      "prompt": "Reminder envelopes pile on top; the tray sinks under the weight. The same mechanism mid-disaster. The chain reaction is physically traceable back to its source. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/carnival.png",
+      "aspect_ratio": "9:16",
+      "prompt": "A slow snail-race attraction where invoice envelopes creep along lanes. The broken workflow rebuilt as a literal miniature amusement ride or circus mechanism in graphite metal and frosted acrylic. The ride expresses the office process itself. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    },
+    {
+      "file": "9x16/apocalypse.png",
+      "aspect_ratio": "9:16",
+      "prompt": "A frozen racetrack buried in reminders; a lime conveyor moves the first invoice across the line. Wide, large-scale ruin long after the collapse. The original source is hard to identify but evidence of the disorder is embedded in the wreckage. Lime recovery rigs are beginning to reconnect the pieces. Native tall portrait composition, not a crop: stack the mechanism vertically, slightly high camera looking down. Photoreal miniature tabletop scene. Ivory paper, graphite metal, frosted acrylic and frosted glass. Soft daylight from the upper left, grounded believable shadows, shallow depth of field with one sharp focal mechanism. Palette: white #FFFFFF, graphite #191D1B, pale neutral #F3F5F2, muted graphite #626A64, soft border #DCE1DA, olive #718D0B, with restrained acid lime #D0F344 accents marking only the active route or key object. No people, no faces, no hands. No text, letters, numbers, logos or UI labels anywhere in the image."
+    }
+  ]
+}
