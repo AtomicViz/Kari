@@ -1,8 +1,8 @@
 """Validate scene batches against SPEC.md hard rules."""
 import json, pathlib, re, sys
 HERE = pathlib.Path(__file__).parent
-src = {r["id"]: r for r in json.load(open(HERE / "source-ideas.json"))}
-films = {r["inspired_by"].split(" (")[0].lower() for r in src.values() if "inspired_by" in r}
+films = {r["inspired_by"].split(" (")[0].lower() for f in HERE.glob("batch-*.json")
+         for r in json.load(open(f)) if "inspired_by" in r}
 BANNED = r"\b(person|people|man|woman|worker's hand|hands?|faces?|figures?|silhouettes?|carnival|circus|ferris|carousel|roller coaster|coaster|midway|big top|clown|hologram|robot)\b"
 bad = 0
 for f in sorted(HERE.glob("batch-*.json")):
