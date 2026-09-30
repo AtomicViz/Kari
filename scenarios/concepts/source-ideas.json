@@ -1,0 +1,1602 @@
+[
+ {
+  "id": 31,
+  "title": "Meeting overrun hourglass",
+  "category": "Meetings & calendar",
+  "start": "A tabletop hourglass beside a row of paper calendar blocks, the lime sand band marking the booked hour.",
+  "end": "Sand keeps pouring past the mark, overflows the base and buries the next calendar blocks, shoving the last ones off the table edge.",
+  "apocalypse": "A collapsed Ferris wheel half-buried in a grey sand dune; lime sieve conveyors sift hour tokens back out of the drift."
+ },
+ {
+  "id": 32,
+  "title": "Recurring meeting zombie",
+  "category": "Meetings & calendar",
+  "start": "A single recurring-invite card on a brass spindle next to an archived project box.",
+  "end": "The spindle keeps stamping identical invite cards long after the project box is sealed, stacking them up the wall.",
+  "apocalypse": "The carousel has sunk into layers of compressed invite cards like sediment; a lime cutting rig trims the spindle at its root."
+ },
+ {
+  "id": 33,
+  "title": "Time-zone math",
+  "category": "Meetings & calendar",
+  "start": "Three small desk clocks set to different hours, one meeting card sliding between them.",
+  "end": "The clock hands catch on each other, gears grind, and the meeting card is dragged into the dark overnight slot.",
+  "apocalypse": "Toppled clock towers across a dim plain; a lime gear train is laying a single synchronized drive shaft between them."
+ },
+ {
+  "id": 34,
+  "title": "No-agenda meeting",
+  "category": "Meetings & calendar",
+  "start": "A meeting-table model with one blank agenda sheet at its centre.",
+  "end": "The table extends, more chairs slot in, and discussion tubes loop from seat to seat without ever reaching the blank sheet.",
+  "apocalypse": "An overgrown maze ruin at landscape scale; a lime survey crawler lays one straight track from the centre to the edge."
+ },
+ {
+  "id": 35,
+  "title": "Wrong window screen-share",
+  "category": "Meetings & calendar",
+  "start": "A laptop mirroring one tidy window onto a small projector screen.",
+  "end": "The beam splits and spills private drafts, half-finished files and open tabs across every wall of the room.",
+  "apocalypse": "A shattered mirror field stretching to the horizon; lime frames re-seat one clean pane at a time."
+ },
+ {
+  "id": 36,
+  "title": "Frozen video call",
+  "category": "Meetings & calendar",
+  "start": "A webcam aimed at a single frosted video tile on a desk stand.",
+  "end": "The tile ices over, neighbouring tiles freeze to it, and buffer icicles grow down from the monitor.",
+  "apocalypse": "A glacier of fused tiles fills a valley; lime heating cables melt a narrow channel through it."
+ },
+ {
+  "id": 37,
+  "title": "Double-booked room",
+  "category": "Meetings & calendar",
+  "start": "A single miniature conference room with two booking tabs clipped to the door.",
+  "end": "Two full meeting setups push into the same room; tables overlap and the walls bow outward.",
+  "apocalypse": "The room shell is crushed flat among wrecked tables; lime rails partition the site into clean bays."
+ },
+ {
+  "id": 38,
+  "title": "Quick call that isn't",
+  "category": "Meetings & calendar",
+  "start": "A small fifteen-minute calendar chip on an otherwise open day strip.",
+  "end": "The chip stretches like taffy across the whole day strip, pulling lunch and focus blocks along with it.",
+  "apocalypse": "Hardened taffy flows have set over a miniature office district; lime cutters slice it back into segments."
+ },
+ {
+  "id": 39,
+  "title": "Lost action items",
+  "category": "Meetings & calendar",
+  "start": "An open notebook on a meeting table with three action-item cards tucked in.",
+  "end": "The cards slip through a gap in the table and fall down a chute into the floor below.",
+  "apocalypse": "A deep pit of lost cards at the foot of a collapsed tower; a lime retrieval claw lifts them out one by one."
+ },
+ {
+  "id": 40,
+  "title": "Waiting-room limbo",
+  "category": "Meetings & calendar",
+  "start": "A tiny virtual waiting-room lobby model with one pending tile at the door.",
+  "end": "More pending tiles queue behind it in a stanchion line that snakes off the desk and across the floor.",
+  "apocalypse": "A rusted field of stanchions and sagging ropes; a lime gate finally swings open at the far end."
+ },
+ {
+  "id": 41,
+  "title": "Out-of-office loop",
+  "category": "Email & messaging",
+  "start": "Two desk mail trays, each with an auto-reply envelope ready to send.",
+  "end": "Each tray auto-answers the other, envelopes shuttle back and forth faster and pile up between them.",
+  "apocalypse": "Drifts of envelopes between two ruined towers; a lime cut-off valve closes the channel between them."
+ },
+ {
+  "id": 42,
+  "title": "CC creep",
+  "category": "Email & messaging",
+  "start": "One outgoing envelope with a single delivery tube to one mail slot.",
+  "end": "The tube keeps branching to more and more mail slots until the envelope splits into dozens of copies.",
+  "apocalypse": "A fallen grid of zip lines draped over wreckage; a lime crawler restores a single clean line."
+ },
+ {
+  "id": 43,
+  "title": "Subject-line fork",
+  "category": "Email & messaging",
+  "start": "A neat thread of stacked envelopes on a single rail.",
+  "end": "One altered envelope switches the rail; the thread splits into parallel tracks that never rejoin.",
+  "apocalypse": "Derailed coaster tracks fan across a canyon; a lime switching mechanism rejoins them to one line."
+ },
+ {
+  "id": 44,
+  "title": "@here broadcast",
+  "category": "Email & messaging",
+  "start": "A single desk bell on one desk in a grid of quiet desks.",
+  "end": "Striking the one bell triggers every bell in the grid, and the vibration rattles work off every desk.",
+  "apocalypse": "Cracked bells lie scattered across a flattened office plain; lime dampers clamp them silent one by one."
+ },
+ {
+  "id": 45,
+  "title": "Channel sprawl",
+  "category": "Email & messaging",
+  "start": "One tidy chat-channel tray with a few message tiles in it.",
+  "end": "The tray splits into dozens of near-identical trays, message tiles scattering between them.",
+  "apocalypse": "A dried pond basin with stranded channel floats; a lime sorting flume routes them into a few channels."
+ },
+ {
+  "id": 46,
+  "title": "Draft graveyard",
+  "category": "Email & messaging",
+  "start": "An outbox tray with one half-finished envelope resting under the lid.",
+  "end": "Unsent drafts accumulate until the outbox lid can no longer close and the tray jams.",
+  "apocalypse": "A silted, dry flume channel; a lime pump pushes the first draft over the drop."
+ },
+ {
+  "id": 47,
+  "title": "Per my last email",
+  "category": "Email & messaging",
+  "start": "A printed email with an older quoted message folded beneath it.",
+  "end": "The quote chain nests deeper and deeper; printouts stack inside printouts into a tower.",
+  "apocalypse": "Collapsed nested tunnels form a mound; a lime boring rig drills straight to the original message."
+ },
+ {
+  "id": 48,
+  "title": "Accidental send",
+  "category": "Email & messaging",
+  "start": "A spring-loaded send lever holding a half-written envelope.",
+  "end": "The lever fires early; the envelope launches and recall mechanisms chase it down the table.",
+  "apocalypse": "A crater field studded with launched envelopes; a lime capture net is being strung across it."
+ },
+ {
+  "id": 49,
+  "title": "Unread counter",
+  "category": "Email & messaging",
+  "start": "A mechanical counter showing a small unread number beside an inbox tray.",
+  "end": "The counter spins faster than it can be read, digits roll over and the drum rattles loose.",
+  "apocalypse": "Jammed slot machines stand in a silent arcade ruin; a lime reset lever is pulled on the first one."
+ },
+ {
+  "id": 50,
+  "title": "Signature attachment snowdrift",
+  "category": "Email & messaging",
+  "start": "An email envelope with two tiny logo-image tiles clipped to it.",
+  "end": "Every reply adds more tiny image tiles until a snowdrift of icons buries the thread.",
+  "apocalypse": "A flattened claw machine in icon rubble; a lime filter screen separates the message from the clutter."
+ },
+ {
+  "id": 51,
+  "title": "File locked by another user",
+  "category": "Files & documents",
+  "start": "A document folder with a small graphite padlock on the clasp.",
+  "end": "Waiting copies line up at the lock; more padlocks clamp onto each copy.",
+  "apocalypse": "A heap of rusted padlocks fused together; a lime master-key rig works its way through."
+ },
+ {
+  "id": 52,
+  "title": "Sync conflict copies",
+  "category": "Files & documents",
+  "start": "A frosted cloud-shaped canister syncing one document down a tube.",
+  "end": "Two versions collide in the tube and conflicted copies branch off, multiplying down side pipes.",
+  "apocalypse": "A collapsed chairlift over a field of duplicates; a lime merge press compacts them into one."
+ },
+ {
+  "id": 53,
+  "title": "Request access door",
+  "category": "Files & documents",
+  "start": "A document visible behind a frosted glass door with a request slot.",
+  "end": "Request slips pile up in the slot and spill across the floor; the door never opens.",
+  "apocalypse": "Buried turnstiles in a drift of request slips; a lime gate mechanism is being installed."
+ },
+ {
+  "id": 54,
+  "title": "Comment pileup",
+  "category": "Files & documents",
+  "start": "A draft page on a stand with three small comment flags pinned in the margin.",
+  "end": "Comment flags multiply until the page is a pincushion that can no longer be read.",
+  "apocalypse": "A flattened pinball field studded with flags; lime sweepers resolve and clear a lane."
+ },
+ {
+  "id": 55,
+  "title": "Markup sediment",
+  "category": "Files & documents",
+  "start": "A clean page with a single tracked-change strike mark.",
+  "end": "Layer after layer of markup overlays stack until the page is a thick translucent block.",
+  "apocalypse": "A sedimentary cliff of markup layers; a lime core drill extracts the clean original."
+ },
+ {
+  "id": 56,
+  "title": "Downloads folder landslide",
+  "category": "Files & documents",
+  "start": "A small download tray catching a few files from a chute.",
+  "end": "Duplicate downloads pour in faster than the tray can hold and it overflows across the desk.",
+  "apocalypse": "A compacted ball-pit crater; a lime sorter sifts it into labelled bins."
+ },
+ {
+  "id": 57,
+  "title": "Storage full",
+  "category": "Files & documents",
+  "start": "A frosted storage canister with a gauge needle near the top.",
+  "end": "The canister bursts at the seams and files spray out across the table.",
+  "apocalypse": "A collapsed water tower in a flooded file plain; a lime pipeline routes flow into new tanks."
+ },
+ {
+  "id": 58,
+  "title": "Missing font",
+  "category": "Files & documents",
+  "start": "A layout tray of type blocks with one empty slot.",
+  "end": "Mismatched substitute blocks are forced in and the press jams, bending the frame.",
+  "apocalypse": "A shattered press surrounded by scattered type blocks; a lime rack rebuilds the set."
+ },
+ {
+  "id": 59,
+  "title": "Broken slide template",
+  "category": "Files & documents",
+  "start": "A small deck of slides on an easel, each element seated in its grid.",
+  "end": "Elements drift off the grid slide by slide until they pile in the corners.",
+  "apocalypse": "Slide tiles scattered across a wide plain; a lime grid frame re-seats them."
+ },
+ {
+  "id": 60,
+  "title": "Screenshot of a spreadsheet",
+  "category": "Files & documents",
+  "start": "A camera on a tripod photographing a printed spreadsheet sheet.",
+  "end": "Photos of the photo are taken and passed along, each flatter and less usable than the last.",
+  "apocalypse": "A dune of photo strips; a lime scanner converts the first strip back into live cells."
+ },
+ {
+  "id": 61,
+  "title": "Sorted one column",
+  "category": "Spreadsheets & data",
+  "start": "A two-column tile tray where each row's tiles are paired by a lime link.",
+  "end": "One column is sorted alone; rows slide apart and every pair is mismatched.",
+  "apocalypse": "Derailed coaster cars piled in a ravine; a lime coupler reattaches the correct pairs."
+ },
+ {
+  "id": 62,
+  "title": "Filter left on",
+  "category": "Spreadsheets & data",
+  "start": "A spreadsheet tray with a small funnel filter clipped to one column.",
+  "end": "Filtered rows drop through the floor into a hidden compartment and silently accumulate.",
+  "apocalypse": "An underground cavern of hidden rows; a lime lift brings them back to the surface."
+ },
+ {
+  "id": 63,
+  "title": "Merged cells",
+  "category": "Spreadsheets & data",
+  "start": "A grid of frosted acrylic cells with two merged into one.",
+  "end": "Merges spread across the grid until nothing can be sorted or split.",
+  "apocalypse": "A monolithic fused slab across the landscape; a lime saw cuts it back into cells."
+ },
+ {
+  "id": 64,
+  "title": "#REF chain collapse",
+  "category": "Spreadsheets & data",
+  "start": "A chain of formula linkage rods connecting cells on a tabletop.",
+  "end": "One rod is pulled; the linkage collapses cell by cell down the table.",
+  "apocalypse": "Scattered rods and marbles across a ruin; a lime linkage rig reconnects the chain."
+ },
+ {
+  "id": 65,
+  "title": "Encoding garbage",
+  "category": "Spreadsheets & data",
+  "start": "Clean data tiles feeding into a small converter box.",
+  "end": "The converter spits out scrambled, abstract glyph tiles that clog the output tray.",
+  "apocalypse": "A mound of scrambled tiles; a lime decoder frame restores them."
+ },
+ {
+  "id": 66,
+  "title": "Date format swap",
+  "category": "Spreadsheets & data",
+  "start": "Two flip-panel date stamps side by side.",
+  "end": "Day and month panels swap; schedules misfire and paper deadlines tumble.",
+  "apocalypse": "Flip panels scattered across a plain; a lime aligner snaps them back into order."
+ },
+ {
+  "id": 67,
+  "title": "Duplicate CRM contacts",
+  "category": "Spreadsheets & data",
+  "start": "A small card file of contact cards.",
+  "end": "Each card duplicates itself until the drawers burst.",
+  "apocalypse": "Drifts of duplicate cards; a lime dedupe press stacks unique cards."
+ },
+ {
+  "id": 68,
+  "title": "Empty merge field",
+  "category": "Spreadsheets & data",
+  "start": "A batch of envelopes on a conveyor, each with an empty bracketed slot.",
+  "end": "The batch ships out with blank slots and returns stamped back.",
+  "apocalypse": "Returned envelopes piled around a derailed coaster; a lime stamp fills slots."
+ },
+ {
+  "id": 69,
+  "title": "Attribution tug-of-war",
+  "category": "Spreadsheets & data",
+  "start": "One conversion token tied to two channel ropes on a desk.",
+  "end": "More ropes attach and pull in every direction until the token tears.",
+  "apocalypse": "Snapped ropes over a ruined arena; a lime ledger mechanism splits the token fairly."
+ },
+ {
+  "id": 70,
+  "title": "Stale pivot",
+  "category": "Spreadsheets & data",
+  "start": "A pivot-table model with a refresh crank.",
+  "end": "The crank is forgotten; the model drifts out of step with the incoming data feed that piles up behind it.",
+  "apocalypse": "A seized scrambler ride half-buried in unprocessed data; a lime crank drive restarts it."
+ },
+ {
+  "id": 71,
+  "title": "Forced update",
+  "category": "Tools & tech",
+  "start": "A laptop on a desk with a physical progress bar stand beside it.",
+  "end": "The progress bar stalls, rewinds and loops while work piles up next to it.",
+  "apocalypse": "A rusted loop track over a dead desk city; a lime exit track is being welded."
+ },
+ {
+  "id": 72,
+  "title": "VPN drop",
+  "category": "Tools & tech",
+  "start": "A frosted acrylic tunnel pipe between a laptop and a server block.",
+  "end": "The tunnel keeps collapsing and packets pile up at the breaks.",
+  "apocalypse": "A caved-in tunnel under a ruin; lime shoring braces the passage."
+ },
+ {
+  "id": 73,
+  "title": "2FA code sprint",
+  "category": "Tools & tech",
+  "start": "A code-token device on a shelf across the room from the laptop.",
+  "end": "Codes expire before they arrive; tokens pile up mid-route.",
+  "apocalypse": "A cracked mole-board ruin; a lime key fits one hole."
+ },
+ {
+  "id": 74,
+  "title": "Adapter stack",
+  "category": "Tools & tech",
+  "start": "A laptop with one port and a single graphite adapter block.",
+  "end": "Adapters stack on adapters into a teetering tower.",
+  "apocalypse": "Toppled adapter towers in rubble; a lime single hub stands upright."
+ },
+ {
+  "id": 75,
+  "title": "Wi-Fi dead zone",
+  "category": "Tools & tech",
+  "start": "A router with frosted signal rings spreading over a desk grid.",
+  "end": "A dead zone grows; rings break and desks fall dark.",
+  "apocalypse": "Scattered rings over a dark plain; lime repeaters relight a path."
+ },
+ {
+  "id": 76,
+  "title": "Subscription sprawl",
+  "category": "Tools & tech",
+  "start": "One subscription card in a small holder.",
+  "end": "Cards multiply and a billing conveyor starts feeding them out endlessly.",
+  "apocalypse": "Ticket drifts across a ruined midway; a lime consolidator winds them into one roll."
+ },
+ {
+  "id": 77,
+  "title": "Broken integration",
+  "category": "Tools & tech",
+  "start": "Two gear systems linked by one lime coupling.",
+  "end": "The coupling snaps; each gear system spins on its own, throwing work off.",
+  "apocalypse": "Two gear ruins facing each other across a gap; a lime coupling bridges them."
+ },
+ {
+  "id": 78,
+  "title": "Retry storm",
+  "category": "Tools & tech",
+  "start": "A message cube fired down a chute to a receiving tray.",
+  "end": "The receiver doesn't answer; retries multiply until cubes jam the chute.",
+  "apocalypse": "A heap of cubes around a toppled pitching machine; a lime backoff valve meters flow."
+ },
+ {
+  "id": 79,
+  "title": "Battery death",
+  "category": "Tools & tech",
+  "start": "A laptop with a battery gauge falling toward empty.",
+  "end": "The laptop dies mid-task; chargers are hunted across the office, leaving work half-done.",
+  "apocalypse": "Dead cars across a rink ruin; a lime charging grid powers the first car back up."
+ },
+ {
+  "id": 80,
+  "title": "License seats full",
+  "category": "Tools & tech",
+  "start": "A rack of seat tokens, every slot full, one token waiting.",
+  "end": "Waiting tokens queue, and seats are pried loose to make room.",
+  "apocalypse": "A collapsed carousel ringed by waiting tokens; a lime rack adds seats."
+ },
+ {
+  "id": 81,
+  "title": "Make the logo bigger",
+  "category": "Agency & client work",
+  "start": "A tidy ivory layout board with a small graphite mark block in one corner and content blocks seated on a lime grid.",
+  "end": "The mark block swells in steps, shoving headline and image blocks to the edges until they topple off the board.",
+  "apocalypse": "A deflated bounce house draped over flattened layout blocks across a wide plain; a lime grid frame is lowered to restore proportion."
+ },
+ {
+  "id": 82,
+  "title": "Brief ping-pong",
+  "category": "Agency & client work",
+  "start": "A single brief sheet resting between two graphite in-trays on a desk.",
+  "end": "The brief shuttles between the trays, collecting clipped notes on every pass until the stack is too heavy to land in either.",
+  "apocalypse": "The pendulum ship lies broken between two ruined platforms buried in clipped notes; a lime anchor pins the brief to one tray."
+ },
+ {
+  "id": 83,
+  "title": "Proofing rounds",
+  "category": "Agency & client work",
+  "start": "A proof sheet under a small graphite stamp press with a mechanical round counter.",
+  "end": "The counter ticks up each round and a new proof slides out; proofs stack in a leaning column beside the press.",
+  "apocalypse": "A mountain of proofs around a seized round-up ride; a lime final-stamp arm descends on the top sheet."
+ },
+ {
+  "id": 84,
+  "title": "Stock photo licensing",
+  "category": "Agency & client work",
+  "start": "Three small photo prints on a rail, each with a lime licence tag tied on a string.",
+  "end": "Strings tangle and tags drop off as more prints are added; untagged prints spill across the table.",
+  "apocalypse": "A collapsed prize wall in a field of loose prints; a lime ledger rail threads tags back onto their prints."
+ },
+ {
+  "id": 85,
+  "title": "Colour mismatch",
+  "category": "Agency & client work",
+  "start": "A glowing screen swatch beside a printed paper swatch, slightly off in tone.",
+  "end": "Each print copied from the last drifts further in tone; a stack of increasingly wrong swatches fans across the desk.",
+  "apocalypse": "A shattered colour wheel spread across a grey basin; a lime calibration rig realigns the first segment."
+ },
+ {
+  "id": 86,
+  "title": "File too big to send",
+  "category": "Agency & client work",
+  "start": "An oversized graphite file crate in front of a narrow mail slot.",
+  "end": "The crate wedges in the slot, splits, and its chunks scatter down the chute unevenly.",
+  "apocalypse": "Crate fragments piled at a collapsed tunnel mouth; a lime conveyor widens the passage."
+ },
+ {
+  "id": 87,
+  "title": "Expired transfer link",
+  "category": "Agency & client work",
+  "start": "A pneumatic courier tube carrying one file cartridge, a small countdown dial on the tube.",
+  "end": "The dial runs out mid-route; cartridges drop from the tubes onto the floor.",
+  "apocalypse": "Broken tube ruins with cartridges scattered beneath them; a lime tube is reconnected across the gap."
+ },
+ {
+  "id": 88,
+  "title": "Ad size explosion",
+  "category": "Agency & client work",
+  "start": "One finished ad frame on a small easel.",
+  "end": "One small change must be repeated across dozens of frame sizes that fan out around the easel.",
+  "apocalypse": "Stacks of mismatched frames fill a ruined gallery; a lime resizing rig works through them one by one."
+ },
+ {
+  "id": 89,
+  "title": "Tracking tag chaos",
+  "category": "Agency & client work",
+  "start": "Link tokens with neat lime tags entering one clear tracking pipe.",
+  "end": "Inconsistently tagged tokens enter; the pipe branches and tokens flow into the wrong channels.",
+  "apocalypse": "Silted, overgrown channels crisscross a delta; a lime sluice gate reroutes tokens into one channel."
+ },
+ {
+  "id": 90,
+  "title": "Midnight scheduled post",
+  "category": "Agency & client work",
+  "start": "A small posting queue feeding a publishing slot, a timer dial on top.",
+  "end": "The dial slips; posts fire out of the slot into a darkened overnight room.",
+  "apocalypse": "A fallen cuckoo clock in a dark landscape; a lime dial is set and the first door closes."
+ },
+ {
+  "id": 91,
+  "title": "Everything is urgent",
+  "category": "Process & approvals",
+  "start": "A row of task cards on a desk; one carries a small lime flag.",
+  "end": "Flags are added to every card, then flags to the flags, until the work disappears under them.",
+  "apocalypse": "A flag-strewn ruin at landscape scale; a lime sorting rack raises only the few flags that matter."
+ },
+ {
+  "id": 92,
+  "title": "Got a sec?",
+  "category": "Process & approvals",
+  "start": "A focus block sitting on a small desk platform.",
+  "end": "Tapping arms nudge the block off its platform again and again; each time it lands further away.",
+  "apocalypse": "A cracked dunk tank in a flooded ruin; a lime shield holds the block on its platform."
+ },
+ {
+  "id": 93,
+  "title": "Context switching",
+  "category": "Process & approvals",
+  "start": "Six task trays arranged around a small rotating desk.",
+  "end": "The desk spins between trays faster and faster; each task is started and abandoned half-done.",
+  "apocalypse": "A seized tilt-a-whirl among half-finished tasks; a lime brake locks the desk facing one tray."
+ },
+ {
+  "id": 94,
+  "title": "Blocked by another team",
+  "category": "Process & approvals",
+  "start": "Two conveyor lines meeting at a single graphite gate.",
+  "end": "The gate stays shut; work piles up on the waiting line and spills over the rails.",
+  "apocalypse": "A rusted lift hill with piled cars; a lime chain drive restarts the climb."
+ },
+ {
+  "id": 95,
+  "title": "Duplicate work",
+  "category": "Process & approvals",
+  "start": "Two identical workbenches side by side, each building the same part.",
+  "end": "Identical parts pile up on both benches, neither aware of the other.",
+  "apocalypse": "Twin wrecks lie side by side; a lime merge track combines them into one line."
+ },
+ {
+  "id": 96,
+  "title": "Single point of knowledge",
+  "category": "Process & approvals",
+  "start": "A small vault with one graphite key module slotted into its door.",
+  "end": "The key module is removed; everything that needs the vault queues at the door.",
+  "apocalypse": "A sealed vault ruin surrounded by queued work; a lime rig duplicates the key."
+ },
+ {
+  "id": 97,
+  "title": "Vague ticket",
+  "category": "Process & approvals",
+  "start": "A blank ticket card in an intake tray.",
+  "end": "Clarification loops orbit the card and multiply until the tray is ringed with them.",
+  "apocalypse": "A seized orbiter above a crater; a lime arm stamps a clear diagram onto the card."
+ },
+ {
+  "id": 98,
+  "title": "Purchase order relay",
+  "category": "Process & approvals",
+  "start": "A purchase-order form on a tray with three signature slots.",
+  "end": "More slots appear across departments; the form travels tray to tray and never returns.",
+  "apocalypse": "A ruined track littered with forms; a lime baton carries one form across the finish."
+ },
+ {
+  "id": 99,
+  "title": "Signature chase",
+  "category": "Process & approvals",
+  "start": "A document on a small rail cart with signature stops along the route.",
+  "end": "The cart stalls at each stop; a queue of carts builds behind it.",
+  "apocalypse": "A derailed train in a ruin; a lime bypass track skips the stalled stops."
+ },
+ {
+  "id": 100,
+  "title": "Net-90 invoice",
+  "category": "Process & approvals",
+  "start": "An invoice envelope resting in a waiting tray.",
+  "end": "Reminder envelopes pile on top; the tray sinks under the weight.",
+  "apocalypse": "A frozen racetrack buried in reminders; a lime conveyor moves the first invoice across the line."
+ },
+ {
+  "id": 101,
+  "title": "Thermostat war",
+  "category": "Office physical",
+  "start": "One thermostat dial on a miniature office wall above a row of desks.",
+  "end": "The dial swings back and forth; frost creeps over some desks while others shimmer with heat.",
+  "apocalypse": "A cracked plain, half frozen and half scorched; a lime regulator balances the zones."
+ },
+ {
+  "id": 102,
+  "title": "Kitchen mug tower",
+  "category": "Office physical",
+  "start": "One unwashed mug left in a small ivory office-kitchen sink.",
+  "end": "Mugs are stacked on the first one, rim on rim, until a leaning tower rises out of the sink and over the counter.",
+  "apocalypse": "A landscape of mug shards around a toppled ride hub; a lime rack is sorting out the few intact mugs."
+ },
+ {
+  "id": 103,
+  "title": "Hot-desk shuffle",
+  "category": "Office physical",
+  "start": "One desk with a lime booking tag and a small, tidy set of belongings.",
+  "end": "Desks slide into new positions on floor rails; belongings are left behind and scatter across the aisles.",
+  "apocalypse": "Desks scattered across a cracked plain; a lime floor grid is laid down and assigns each one a place."
+ },
+ {
+  "id": 104,
+  "title": "Dead whiteboard marker",
+  "category": "Office physical",
+  "start": "A whiteboard with one faint, streaky stroke and a marker tray below.",
+  "end": "Each dead marker is dropped back into the tray and a new one tried, until they spill onto the floor.",
+  "apocalypse": "A drift of dead markers below a toppled whiteboard; a lime refill station starts filling the first one."
+ },
+ {
+  "id": 105,
+  "title": "Empty supply closet",
+  "category": "Office physical",
+  "start": "A supply shelf with one sticky-note pad left on it.",
+  "end": "The shelf empties and small hoards of supplies form on desks around the closet.",
+  "apocalypse": "Collapsed shelving in a quiet ruin; a lime conveyor restocks the first shelf."
+ },
+ {
+  "id": 106,
+  "title": "Mailroom parcel pile",
+  "category": "Office physical",
+  "start": "A single parcel on a clean mailroom counter.",
+  "end": "Parcels arrive faster than they are sorted, stacking until the mailroom walls bow outward.",
+  "apocalypse": "A parcel landslide filling a valley; a lime sorting chute routes them into lanes."
+ },
+ {
+  "id": 107,
+  "title": "Badge reader standoff",
+  "category": "Office physical",
+  "start": "A small badge reader beside a frosted glass door.",
+  "end": "The reader rejects every badge; a queue of badges on lanyards stacks up at the door.",
+  "apocalypse": "A collapsed door frame in badge rubble; a lime reader lights and the gate opens."
+ },
+ {
+  "id": 108,
+  "title": "Projector aspect mismatch",
+  "category": "Office physical",
+  "start": "A projector casting a slightly cropped image onto a small screen.",
+  "end": "The crop worsens and content spills off the screen onto the walls and ceiling.",
+  "apocalypse": "A torn canopy across a ruin; a lime frame resets the image to fit."
+ },
+ {
+  "id": 109,
+  "title": "Shredder jam",
+  "category": "Office physical",
+  "start": "A small shredder with one sheet feeding into its mouth.",
+  "end": "The shredder jams and shreds erupt from every seam.",
+  "apocalypse": "Shred drifts across a plain; a lime compactor bales them."
+ },
+ {
+  "id": 110,
+  "title": "Sticky-note wall collapse",
+  "category": "Office physical",
+  "start": "A wall with a few square notes in neat rows.",
+  "end": "Notes are layered on notes until their weight peels the whole stack off the wall.",
+  "apocalypse": "A fallen wall of notes like a scree slope; a lime frame re-hangs them in order."
+ },
+ {
+  "id": 111,
+  "title": "Report nobody reads",
+  "category": "Reporting & admin",
+  "start": "A bound report on a delivery tray outside a closed door.",
+  "end": "Reports keep arriving on schedule; unread stacks rise beside the door.",
+  "apocalypse": "Unread stacks form a canyon; a lime reader arm lifts one page to the light."
+ },
+ {
+  "id": 112,
+  "title": "Mandatory training module",
+  "category": "Reporting & admin",
+  "start": "A training cartridge slotted into a laptop.",
+  "end": "New policy cartridges queue behind it; progress resets each time one is added.",
+  "apocalypse": "A ruined obstacle course; a lime track cuts straight across it."
+ },
+ {
+  "id": 113,
+  "title": "Survey fatigue",
+  "category": "Reporting & admin",
+  "start": "A single survey card in an inbox tray.",
+  "end": "Survey cards pile up faster than they're answered, most of them blank.",
+  "apocalypse": "A plinko ruin buried in blank cards; a lime collector gathers the few answered ones."
+ },
+ {
+  "id": 114,
+  "title": "Review form maze",
+  "category": "Reporting & admin",
+  "start": "A short performance form with a handful of boxes.",
+  "end": "Boxes multiply across new pages until the form is a stack of grids.",
+  "apocalypse": "A box-strewn maze ruin; a lime path marks the way through."
+ },
+ {
+  "id": 115,
+  "title": "Reorg shuffle",
+  "category": "Reporting & admin",
+  "start": "An org chart of frosted acrylic blocks linked by lime rods.",
+  "end": "The blocks reshuffle again and again; rods snap and hang loose.",
+  "apocalypse": "Toppled blocks across a wide plain; a lime frame rebuilds a simple chart."
+ },
+ {
+  "id": 116,
+  "title": "Budget reallocation",
+  "category": "Reporting & admin",
+  "start": "Budget tokens in colour-banded bins on a desk.",
+  "end": "Tokens are shifted between bins until none of them balance and some overflow.",
+  "apocalypse": "A dry, seized water wheel; a lime balancing beam levels the bins."
+ },
+ {
+  "id": 117,
+  "title": "Vendor onboarding forms",
+  "category": "Reporting & admin",
+  "start": "A thin vendor form packet on a clipboard.",
+  "end": "Forms multiply into a tall, leaning stack.",
+  "apocalypse": "A dune of forms; a lime binder clamps them into one packet."
+ },
+ {
+  "id": 118,
+  "title": "Tool migration",
+  "category": "Reporting & admin",
+  "start": "An old graphite system block beside a new frosted one, joined by a transfer bridge.",
+  "end": "The bridge sags mid-transfer and data blocks fall between the systems.",
+  "apocalypse": "A collapsed bridge over a gorge full of data blocks; a lime span reconnects the platforms."
+ },
+ {
+  "id": 119,
+  "title": "Stale wiki",
+  "category": "Reporting & admin",
+  "start": "A shelf of ivory binders with a few dusty spines.",
+  "end": "Binders yellow and contradict each other; the shelf sags.",
+  "apocalypse": "A collapsed library ruin; a lime rack re-indexes the current pages."
+ },
+ {
+  "id": 120,
+  "title": "Search finds nothing",
+  "category": "Reporting & admin",
+  "start": "A card-catalog drawer with a search probe hovering over it.",
+  "end": "The probe opens the wrong drawers and spills cards everywhere.",
+  "apocalypse": "A spilled catalog ruin; a lime index rail sorts the cards."
+ },
+ {
+  "id": 121,
+  "title": "Broken link",
+  "category": "Launch & web",
+  "start": "A chain of page tiles connected by lime links.",
+  "end": "One link breaks; everything travelling down the chain falls through the gap.",
+  "apocalypse": "A monorail ruin spanning a chasm; a lime section is lowered into the gap."
+ },
+ {
+  "id": 122,
+  "title": "Cache not cleared",
+  "category": "Launch & web",
+  "start": "A display case showing an older page model while a new one waits beside it.",
+  "end": "New versions stack behind the glass, but the old one stays in front.",
+  "apocalypse": "A dusty display ruin; a lime wiper clears the glass."
+ },
+ {
+  "id": 123,
+  "title": "Works on my machine",
+  "category": "Launch & web",
+  "start": "A working mechanism on one desk rig.",
+  "end": "The mechanism moves to a second desk and falls apart piece by piece.",
+  "apocalypse": "A collapsed trapeze between two towers; a lime platform matches both sides."
+ },
+ {
+  "id": 124,
+  "title": "Placeholder shipped",
+  "category": "Launch & web",
+  "start": "A layout block of grey placeholder bars on a conveyor.",
+  "end": "Placeholder blocks ship out on the conveyor into the world.",
+  "apocalypse": "Grey blocks across a ruin; a lime stamp replaces them one by one."
+ },
+ {
+  "id": 125,
+  "title": "Heavy page",
+  "category": "Launch & web",
+  "start": "A page tile carrying oversized image slabs.",
+  "end": "The page bows under the weight and slows to a crawl.",
+  "apocalypse": "A crushed page ruin; a lime compressor lightens the slabs."
+ },
+ {
+  "id": 126,
+  "title": "Form to nowhere",
+  "category": "Launch & web",
+  "start": "A form slot on a web page model feeding into a pipe.",
+  "end": "Submissions drop into the pipe, which leads nowhere.",
+  "apocalypse": "Submissions pooled at the slide's broken end; a lime pipe reroutes them."
+ },
+ {
+  "id": 127,
+  "title": "Staging vs production",
+  "category": "Launch & web",
+  "start": "Two identical platforms, one marked with a lime band.",
+  "end": "Changes are pushed to the wrong platform.",
+  "apocalypse": "Twin ruins; a lime marker picks out production."
+ },
+ {
+  "id": 128,
+  "title": "Friday hotfix",
+  "category": "Launch & web",
+  "start": "A small patch plate over a crack.",
+  "end": "The patch cracks further and more patches are bolted over it.",
+  "apocalypse": "A patchwork ruin; a lime brace spans the crack."
+ },
+ {
+  "id": 129,
+  "title": "QA ticket bounce",
+  "category": "Launch & web",
+  "start": "A ticket between a build tray and a QA tray.",
+  "end": "The ticket bounces between them, collecting stamps.",
+  "apocalypse": "A torn trampoline; a lime catch holds the ticket."
+ },
+ {
+  "id": 130,
+  "title": "Sprint carryover",
+  "category": "Launch & web",
+  "start": "A sprint tray of task cards.",
+  "end": "Unfinished cards carry over and pile into the next tray.",
+  "apocalypse": "A derailed train; a lime sorter clears the cards."
+ },
+ {
+  "id": 131,
+  "title": "Cover-sheet memo",
+  "inspired_by": "Office Space (1999)",
+  "start": "A single report on a desk with a missing cover sheet and one memo clipped to it.",
+  "end": "Duplicate reminder memos arrive by tube, by tray and by pin, each clipping to the report until it is buried in identical memos.",
+  "apocalypse": "A drift of memos entombs a ruined cubicle row; a lime binder clamps the single report with its cover sheet."
+ },
+ {
+  "id": 132,
+  "title": "Exiled stapler",
+  "inspired_by": "Office Space (1999)",
+  "start": "A lime stapler on a tidy desk, its place outlined on the blotter.",
+  "end": "The stapler is moved desk by desk down a corridor, then down a stairwell into a dim basement storage room.",
+  "apocalypse": "A flooded basement ruin full of relocated desk objects; a lime lift carries the stapler back up."
+ },
+ {
+  "id": 133,
+  "title": "Printer taken to the field",
+  "inspired_by": "Office Space (1999)",
+  "start": "A printer on a stand showing a paper-jam error light, one crumpled sheet in its tray.",
+  "end": "The printer is wheeled out of the office on a cart, across a car park and into an open grass field.",
+  "apocalypse": "Printer fragments scattered across a scorched field; a lime repair rig reassembles a working paper path."
+ },
+ {
+  "id": 134,
+  "title": "Flair quota",
+  "inspired_by": "Office Space (1999)",
+  "start": "A uniform on a hanger with a few round pin badges fixed to its strap.",
+  "end": "More pins are demanded; the strap fills, then the sleeves, until the uniform sags under the metal.",
+  "apocalypse": "A heap of loose pins around a collapsed wheel; a lime magnet lifts them into one small tray."
+ },
+ {
+  "id": 135,
+  "title": "Saturday request",
+  "inspired_by": "Office Space (1999)",
+  "start": "A weekend calendar page with a single sticky request slip on Saturday.",
+  "end": "Slips spread to Sunday, then across the next weekend and the one after, covering every rest day.",
+  "apocalypse": "A ruined calendar Ferris wheel fallen across a quiet town; a lime lock seals the weekend gondolas."
+ },
+ {
+  "id": 136,
+  "title": "Lane-switch commute",
+  "inspired_by": "Office Space (1999)",
+  "start": "A miniature highway model with two lanes of tiny cars and one car switching lanes.",
+  "end": "Every lane change lands in the slower lane; the switching car ends up further behind.",
+  "apocalypse": "A cracked highway ruin with cars stalled in both lanes; a lime express lane opens down the middle."
+ },
+ {
+  "id": 137,
+  "title": "Desk to storage B",
+  "inspired_by": "Office Space (1999)",
+  "start": "A single cubicle near a window, its nameplate blank and its chair tucked in.",
+  "end": "The cubicle is shrunk, moved, shrunk again and pushed deeper into the building until it sits beside the boiler room.",
+  "apocalypse": "A cubicle half-buried in basement rubble; a lime light rig pushes up through the ceiling."
+ },
+ {
+  "id": 138,
+  "title": "Efficiency consultants",
+  "inspired_by": "Office Space (1999)",
+  "start": "A clipboard audit form on an interview table with two empty chairs facing one.",
+  "end": "The questions multiply; audit forms stack; desks get tagged for removal one by one.",
+  "apocalypse": "A tagged-desk graveyard across a plain; a lime sorter returns the useful desks to service."
+ },
+ {
+  "id": 139,
+  "title": "Insomnia copier",
+  "inspired_by": "Fight Club (1999)",
+  "start": "A copier producing one crisp copy of a document.",
+  "end": "Copies are made of copies through the night, each fainter and grainier until the stack is mostly grey.",
+  "apocalypse": "A grey dune of illegible copies under night light; a lime scanner recovers the original."
+ },
+ {
+  "id": 140,
+  "title": "Catalogue apartment",
+  "inspired_by": "Fight Club (1999)",
+  "start": "A tidy flat-pack furniture box on a studio floor, an office badge on top.",
+  "end": "The room fills with identical catalogue furniture until it's more showroom than home, the badge lost beneath.",
+  "apocalypse": "A collapsed showroom ruin; a lime path clears one real room in the middle."
+ },
+ {
+  "id": 141,
+  "title": "Single-serving travel",
+  "inspired_by": "Fight Club (1999)",
+  "start": "A tray table with a single-portion meal, a tiny soap and a boarding stub.",
+  "end": "Single-use portions multiply per trip until the tray table overflows with tiny packages.",
+  "apocalypse": "A landfill of tiny portions around a ruined conveyor; a lime compactor sorts them."
+ },
+ {
+  "id": 142,
+  "title": "Recall formula",
+  "inspired_by": "Fight Club (1999)",
+  "start": "A brass balance scale with one small car model on one pan and a thin stack of claim forms on the other.",
+  "end": "Claim forms keep landing on the pan; instead of fixing the car, the scale is recalibrated again and again while cars queue behind it.",
+  "apocalypse": "A snapped scale in a scrapyard of cars and paper; a lime lever re-seats the beam and levels it."
+ },
+ {
+  "id": 143,
+  "title": "Drive-thru downshift",
+  "inspired_by": "American Beauty (1999)",
+  "start": "A leather briefcase leaning against a tiny drive-thru window model, a paper headset beside it.",
+  "end": "The briefcase is set aside; order slips stream through the window and a car queue wraps around the building.",
+  "apocalypse": "A cracked, empty drive-thru lot at dusk; a lime lane marking peels off toward open road."
+ },
+ {
+  "id": 144,
+  "title": "Two lines lit",
+  "inspired_by": "Jerry Maguire (1996)",
+  "start": "A desk phone with two line buttons, one glowing lime.",
+  "end": "The second line lights, then extension phones stack on the desk, every line glowing and every receiver off its cradle.",
+  "apocalypse": "A quiet field of dead handsets around a collapsed switchboard; a lime line reconnects one call."
+ },
+ {
+  "id": 145,
+  "title": "Locked leads",
+  "inspired_by": "Glengarry Glen Ross (1992)",
+  "start": "A locked drawer of index cards beside a cold desk phone on a rainy-night desk.",
+  "end": "Every desk waits on the drawer; phones pile up untouched while the lock stays shut.",
+  "apocalypse": "A broken lock-box ruin under grey rain; a lime key finally turns in the drawer."
+ },
+ {
+  "id": 146,
+  "title": "Sales leaderboard",
+  "inspired_by": "Glengarry Glen Ross (1992)",
+  "start": "A wall leaderboard of blank graphite bars, one lime bar slightly ahead.",
+  "end": "The bars race each other up the wall, bend, jam into the ceiling and start pulling the board off its mounts.",
+  "apocalypse": "Fallen bars across a ruined sales floor; a lime scale lays them side by side evenly."
+ },
+ {
+  "id": 147,
+  "title": "Locked coffee",
+  "inspired_by": "Glengarry Glen Ross (1992)",
+  "start": "A coffee pot behind a small locked glass cabinet door.",
+  "end": "Empty mugs queue in front of the cabinet, row after row, while the pot stays sealed.",
+  "apocalypse": "A dry pot in a dusty cabinet among mug shards; a lime tap reopens the flow."
+ },
+ {
+  "id": 148,
+  "title": "Fluorescent hum",
+  "inspired_by": "Joe Versus the Volcano (1990)",
+  "start": "A long grey corridor model with one flickering fluorescent tube.",
+  "end": "Every tube starts flickering in turn; the corridor stretches into the distance, greyer with each fixture.",
+  "apocalypse": "A dim grey ruin of fallen light fixtures; a single lime lamp lights a path out."
+ },
+ {
+  "id": 149,
+  "title": "Half-height floor",
+  "inspired_by": "Being John Malkovich (1999)",
+  "start": "An office floor model with a ceiling at half height, a desk hunched beneath it.",
+  "end": "The ceiling sinks further; chairs fold, file cabinets tip, and the room compresses.",
+  "apocalypse": "A crushed floor between two intact storeys; a lime jack lifts the ceiling back up."
+ },
+ {
+  "id": 150,
+  "title": "Scripted commute",
+  "inspired_by": "The Truman Show (1998)",
+  "start": "A perfect miniature cul-de-sac with one car leaving a driveway, a briefcase on its roof rack.",
+  "end": "Every element repeats on cue: the same newspaper, the same revolving door, the same desk, and the loop tightens.",
+  "apocalypse": "A cracked painted-sky dome over a model town; a lime door opens in the horizon."
+ },
+ {
+  "id": 151,
+  "title": "Mailroom deluge",
+  "inspired_by": "The Hudsucker Proxy (1994)",
+  "start": "One parcel on a sorting table in a cavernous mailroom.",
+  "end": "Parcels and letters flood down chutes faster than any sorting arm can move, burying the table.",
+  "apocalypse": "A parcel landslide filling a vast hall; a lime sorting chute restores lanes."
+ },
+ {
+  "id": 152,
+  "title": "Called in on a day off",
+  "inspired_by": "Clerks (1994)",
+  "start": "A shop shutter half raised, a day-off calendar page pinned beside it.",
+  "end": "The shutter jams at half height; shift tasks spill under it and pile around the calendar page.",
+  "apocalypse": "A jammed shutter in a ruined parade of shops; a lime crank lifts it."
+ },
+ {
+  "id": 153,
+  "title": "Rental drop-box overflow",
+  "inspired_by": "Clerks (1994)",
+  "start": "A return drop-box at a shop door with one tape case in the slot.",
+  "end": "Returns overflow the box and spill across the pavement, cases cracking open.",
+  "apocalypse": "A drift of cases outside a shuttered store; a lime conveyor sorts them back to shelves."
+ },
+ {
+  "id": 154,
+  "title": "Impossible sweetener",
+  "inspired_by": "Swimming with Sharks (1994)",
+  "start": "A single coffee cup on a saucer beside one specific sweetener packet.",
+  "end": "Wrong packets are rejected one by one; cups multiply along the desk while the right packet can't be found.",
+  "apocalypse": "A spill of cups and packets across a ruin; a lime tray holds the one correct packet."
+ },
+ {
+  "id": 155,
+  "title": "Late-night book delivery",
+  "inspired_by": "The Devil Wears Prada (2006)",
+  "start": "A bound mock-up book at the foot of a townhouse staircase at night.",
+  "end": "The staircase lengthens with each step; the book gets heavier and more pages are added.",
+  "apocalypse": "A collapsed staircase in a quiet street; a lime lift carries the book to the door."
+ },
+ {
+  "id": 156,
+  "title": "Coffee-run relay",
+  "inspired_by": "The Devil Wears Prada (2006)",
+  "start": "A cardboard coffee tray holding one cup, steam rising.",
+  "end": "The order grows to stacks of trays; cups go cold waiting and the tray stack sways.",
+  "apocalypse": "A spilled coffee delta across a city block; a lime tray rescues one warm cup."
+ },
+ {
+  "id": 157,
+  "title": "Autopilot remote",
+  "inspired_by": "Click (2006)",
+  "start": "A universal remote resting beside a desk calendar.",
+  "end": "The remote fast-forwards the calendar; pages fly off in a blur and the desk ages around it.",
+  "apocalypse": "A desk buried under dust and pages in a faded ruin; a lime pause key stops the drift."
+ },
+ {
+  "id": 158,
+  "title": "Say yes to everything",
+  "inspired_by": "Bruce Almighty (2003)",
+  "start": "An inbox tray holding a single request slip.",
+  "end": "An auto-approve stamp says yes to every slip; approvals blizzard out of the tray and fill the room.",
+  "apocalypse": "An avalanche of approval tokens over a city; a lime filter lets only a few pass."
+ },
+ {
+  "id": 159,
+  "title": "Stopwatch logistics",
+  "inspired_by": "Cast Away (2000)",
+  "start": "A stopwatch strapped to one parcel on a sorting belt.",
+  "end": "Every parcel gets its own stopwatch; the belt speeds up until parcels fly off the end.",
+  "apocalypse": "Parcels washed up on a deserted beach ruin; a lime raft carries one home."
+ },
+ {
+  "id": 160,
+  "title": "Door vault conveyor",
+  "inspired_by": "Monsters, Inc. (2001)",
+  "start": "One plain door clicking into a tall vault rack on a rail.",
+  "end": "The rack speeds up; doors jam, swing open and pile up on the rails.",
+  "apocalypse": "A collapsed vault of scattered doors; a lime rack reorders them."
+ },
+ {
+  "id": 161,
+  "title": "File your paperwork",
+  "inspired_by": "Monsters, Inc. (2001)",
+  "start": "A clipboard of paperwork on a service counter with a small window.",
+  "end": "Paperwork piles on the counter while the window stays shut; a queue of clipboards forms.",
+  "apocalypse": "A paper dune around a ruined counter; a lime filing arm starts filing."
+ },
+ {
+  "id": 162,
+  "title": "Quota canister",
+  "inspired_by": "Monsters, Inc. (2001)",
+  "start": "A glass canister with a daily-quota gauge, nearly empty.",
+  "end": "The canister never fills; more canisters line up, each lower than the last.",
+  "apocalypse": "Empty canisters across a ruin; a lime gauge fills one to the line."
+ },
+ {
+  "id": 163,
+  "title": "Production line escape",
+  "inspired_by": "Chicken Run (2000)",
+  "start": "A small conveyor production line with a single hatch.",
+  "end": "The line speeds up; product jams at the hatch and backs up the belts.",
+  "apocalypse": "A jammed factory ruin at dawn; a lime gate opens onto a field."
+ },
+ {
+  "id": 164,
+  "title": "Tunnel conformity",
+  "inspired_by": "Antz (1998)",
+  "start": "An identical row of shovels at identical stations.",
+  "end": "Tunnels branch in perfect copies; one tunnel breaks the pattern and the rest start caving in.",
+  "apocalypse": "A collapsed tunnel colony under a meadow; a lime shaft lifts toward the light."
+ },
+ {
+  "id": 165,
+  "title": "Forms in triplicate",
+  "inspired_by": "Men in Black (1997)",
+  "start": "A form with two carbon copies beneath it on a clipboard.",
+  "end": "Carbons multiply; every form spawns three more until the stack towers overhead.",
+  "apocalypse": "A form dune across a bureaucratic ruin; a lime binder clamps one copy."
+ },
+ {
+  "id": 166,
+  "title": "Files inside the computer",
+  "inspired_by": "Zoolander (2001)",
+  "start": "A beige computer tower beside a file folder on a desk.",
+  "end": "Nobody can find the files; the tower is opened, then dismantled piece by piece across the desk.",
+  "apocalypse": "Computer shards spread across a plain; a lime drive glows with the files intact."
+ },
+ {
+  "id": 167,
+  "title": "Door falls off the car",
+  "inspired_by": "Tommy Boy (1995)",
+  "start": "A sales sample case on the seat of a small old car.",
+  "end": "A door drops off; samples spill along the road as the car keeps driving.",
+  "apocalypse": "A roadside ruin of parts and samples; a lime tow hitch drags the car back."
+ },
+ {
+  "id": 168,
+  "title": "Cold-call phone bank",
+  "inspired_by": "Boiler Room (2000)",
+  "start": "A single phone on a bare desk in a large open room.",
+  "end": "Phones multiply into a trading floor of handsets, all ringing, stacked on every surface.",
+  "apocalypse": "A silent floor of dead handsets; a lime line connects one call."
+ },
+ {
+  "id": 169,
+  "title": "Save the shop",
+  "inspired_by": "Empire Records (1995)",
+  "start": "A small shop counter with a till and a rent notice.",
+  "end": "Rent notices pile on the counter until it sinks.",
+  "apocalypse": "A shuttered shop ruin; a lime key reopens the door."
+ },
+ {
+  "id": 170,
+  "title": "Box on the way out",
+  "inspired_by": "Reality Bites (1994)",
+  "start": "A cardboard box on a desk beside a studio badge.",
+  "end": "Belongings are boxed and the box is carried down a long corridor.",
+  "apocalypse": "A dim studio ruin; a lime spotlight picks out the box."
+ },
+ {
+  "id": 171,
+  "title": "Temp supply mystery",
+  "inspired_by": "Clockwatchers (1997)",
+  "start": "A stocked supply shelf beside a small temp desk with a visitor badge on it.",
+  "end": "Items vanish from the shelf one by one; desk drawers lock and small lamps angle toward the temp desk.",
+  "apocalypse": "An emptied, dust-covered shelving ruin; a lime inventory scanner sweeps the aisle and finds the stash."
+ },
+ {
+  "id": 172,
+  "title": "Plaque race",
+  "inspired_by": "Employee of the Month (2006)",
+  "start": "A long big-box store aisle with one empty wall-plaque frame at the end.",
+  "end": "Carts race down the aisle, knocking stock off shelves as more and more empty frames appear on the wall.",
+  "apocalypse": "A collapsed aisle of fallen shelving and dented carts; a lime cart rolls clear with the frame."
+ },
+ {
+  "id": 173,
+  "title": "Pudding loophole",
+  "inspired_by": "Punch-Drunk Love (2002)",
+  "start": "One pudding cup on a stockroom shelf beside a clipped coupon.",
+  "end": "Pudding cups are bought and stacked until they fill the stockroom and roll out into the warehouse aisles.",
+  "apocalypse": "A dune of pudding cups across a warehouse ruin; a lime pallet jack hauls one tidy pallet away."
+ },
+ {
+  "id": 174,
+  "title": "Honesty in the meeting",
+  "inspired_by": "Liar Liar (1997)",
+  "start": "A polished meeting table with one agenda sheet and one pen.",
+  "end": "Each blunt answer tips something over; papers slide, chairs roll back and the agenda sheet tears.",
+  "apocalypse": "A boardroom ruin with a split table; one lime chair stands upright at its head."
+ },
+ {
+  "id": 175,
+  "title": "Eight-to-noon window",
+  "inspired_by": "The Cable Guy (1996)",
+  "start": "A wall clock with a lime arc from eight to twelve beside a front door.",
+  "end": "The arc stretches past noon and round again; waiting chairs line up down the hallway.",
+  "apocalypse": "A clock fallen across a ruined hallway; a lime door finally swings open."
+ },
+ {
+  "id": 176,
+  "title": "Auto-layoff machine",
+  "inspired_by": "Idiocracy (2006)",
+  "start": "A row of desks with a slim automated evaluation box on each one.",
+  "end": "The boxes flag desks automatically; flagged desks are ejected out of the row on rails.",
+  "apocalypse": "A field of ejected desks around a burnt-out control box; a lime rig restores one row."
+ },
+ {
+  "id": 177,
+  "title": "Stock goes to zero",
+  "inspired_by": "Fun with Dick and Jane (2005)",
+  "start": "A brass stock gauge on an executive desk, its lime needle high.",
+  "end": "The needle drops; furniture is carted out, lamps switched off, the office emptied around the gauge.",
+  "apocalypse": "An empty office ruin with the gauge on the floor; a lime needle starts to lift."
+ },
+ {
+  "id": 178,
+  "title": "Unpaid internship",
+  "inspired_by": "The Pursuit of Happyness (2006)",
+  "start": "A briefcase beside a heavy medical-equipment case at a bus stop.",
+  "end": "The case gets heavier every stop; the commute route stretches across the city.",
+  "apocalypse": "A dim city ruin on a hillside; a lime tram carries the case to the top."
+ },
+ {
+  "id": 179,
+  "title": "Wiped project memory",
+  "inspired_by": "Paycheck (2003)",
+  "start": "A small envelope of random personal items on a desk.",
+  "end": "The items don't explain the project; the desk fills with unexplained objects and unanswered notes.",
+  "apocalypse": "A dim ruin of scattered objects; a lime thread links them in order."
+ },
+ {
+  "id": 180,
+  "title": "Erase the bad project",
+  "inspired_by": "Eternal Sunshine of the Spotless Mind (2004)",
+  "start": "A project folder on a desk under a lamp.",
+  "end": "The desk, then the room, begins to dissolve at the edges as the project is erased piece by piece.",
+  "apocalypse": "A ruin with blurred, missing edges; a lime outline redraws the room."
+ },
+ {
+  "id": 181,
+  "title": "Jet-lagged work trip",
+  "inspired_by": "Lost in Translation (2003)",
+  "start": "A hotel-room desk with a laptop and a bedside clock at 3 a.m.",
+  "end": "Clocks multiply across the desk, each showing a different time, and the city lights outside blur.",
+  "apocalypse": "A dim skyline ruin; a lime clock settles on one time."
+ },
+ {
+  "id": 182,
+  "title": "Corporate gym",
+  "inspired_by": "Dodgeball (2004)",
+  "start": "A treadmill positioned beside an office desk.",
+  "end": "Desks are pulled onto treadmills, then onto rowing machines, until work happens only in motion.",
+  "apocalypse": "A gym ruin with fallen equipment; a lime bench stands clear."
+ },
+ {
+  "id": 183,
+  "title": "Teleprompter runaway",
+  "inspired_by": "Anchorman (2004)",
+  "start": "A teleprompter showing blank grey lines.",
+  "end": "The prompter scrolls faster and faster; scripts spill off the rollers.",
+  "apocalypse": "A studio ruin buried in script paper; a lime prompter scrolls at a steady pace."
+ },
+ {
+  "id": 184,
+  "title": "Concession overflow",
+  "inspired_by": "Ghost World (2001)",
+  "start": "A cinema concession stand with a popcorn machine.",
+  "end": "Popcorn overflows the kettle, the counter and then the lobby.",
+  "apocalypse": "A popcorn dune over a ruined lobby; a lime scoop clears a path."
+ },
+ {
+  "id": 185,
+  "title": "Billable hours",
+  "inspired_by": "The Firm (1993)",
+  "start": "A time card on a mahogany law desk.",
+  "end": "Time cards stack on the desk until it sinks into the floor under their weight.",
+  "apocalypse": "A time-card dune around a sunken desk; a lime punch clock resets."
+ },
+ {
+  "id": 186,
+  "title": "Cloned yourself",
+  "inspired_by": "Multiplicity (1996)",
+  "start": "One desk with one chair and one coffee mug.",
+  "end": "Copies of the desk appear side by side, each slightly worse than the last copy.",
+  "apocalypse": "A ruin of degraded desk copies; a lime frame keeps only the original."
+ },
+ {
+  "id": 187,
+  "title": "Undercoat upsell",
+  "inspired_by": "Fargo (1996)",
+  "start": "A car-lot sales desk with a single add-on form.",
+  "end": "Add-on forms stack onto every sale until the paperwork outweighs the car.",
+  "apocalypse": "A snowy car-lot ruin; a lime car drives away with one form."
+ },
+ {
+  "id": 188,
+  "title": "Can't drop below pace",
+  "inspired_by": "Speed (1994)",
+  "start": "A deadline speedometer on a desk with a lime minimum marker.",
+  "end": "The needle can't drop below the marker; every task is done at speed and things fly off the desk.",
+  "apocalypse": "A broken highway ruin; a lime brake finally engages."
+ },
+ {
+  "id": 189,
+  "title": "Systems are down",
+  "inspired_by": "Jurassic Park (1993)",
+  "start": "A control-room console with one blinking warning lamp.",
+  "end": "Systems cascade offline one by one; security doors slide open along a corridor.",
+  "apocalypse": "An overgrown control-room ruin; a lime switch reboots the grid."
+ },
+ {
+  "id": 190,
+  "title": "Sinking launch",
+  "inspired_by": "Titanic (1997)",
+  "start": "A product-launch model riding on a tabletop sea.",
+  "end": "The launch lists to one side; lifeboats are cut from the budget one by one.",
+  "apocalypse": "A sunken launch on the sea floor; a lime lifeboat carries the salvage."
+ },
+ {
+  "id": 191,
+  "title": "Booby-trapped office",
+  "inspired_by": "Home Alone (1990)",
+  "start": "A desk with a single tripwire stretched across a doorway.",
+  "end": "The trap triggers another trap, and another, cascading through the office.",
+  "apocalypse": "A trap-strewn office ruin; a lime path clears through it."
+ },
+ {
+  "id": 192,
+  "title": "Square filter, round hole",
+  "inspired_by": "Apollo 13 (1995)",
+  "start": "A square filter beside a round slot on a console.",
+  "end": "Improvised fixes pile up with tape, hoses and binder covers.",
+  "apocalypse": "A capsule-like ruin; a lime adapter fits the square into the round."
+ },
+ {
+  "id": 193,
+  "title": "Shifting cube rooms",
+  "inspired_by": "Cube (1997)",
+  "start": "A single cube-shaped room with hatches on all six sides.",
+  "end": "The rooms slide and rotate; every hatch leads to another identical room.",
+  "apocalypse": "A stacked cube ruin; a lime hatch opens to the outside."
+ },
+ {
+  "id": 194,
+  "title": "Contract takes your name",
+  "inspired_by": "Spirited Away (2001)",
+  "start": "A contract sheet on a desk with a nameplate beside it.",
+  "end": "The nameplate fades as contracts pile higher.",
+  "apocalypse": "A misty ruin of contract piles; a lime nameplate glows again."
+ },
+ {
+  "id": 195,
+  "title": "Denied claims cubicle",
+  "inspired_by": "The Incredibles (2004)",
+  "start": "A cramped cubicle with a single claim form and a rubber stamp.",
+  "end": "Every claim is stamped denied; the cubicle walls close in as the stack grows.",
+  "apocalypse": "A crushed cubicle ruin; a lime stamp approves one claim."
+ },
+ {
+  "id": 196,
+  "title": "Task board stampede",
+  "inspired_by": "Jumanji (1995)",
+  "start": "A board game of task tiles on a desk with a pair of dice.",
+  "end": "A roll releases a stampede of task tiles that tramples the office.",
+  "apocalypse": "A trampled office ruin; a lime board resets to start."
+ },
+ {
+  "id": 197,
+  "title": "Thawed and outdated",
+  "inspired_by": "Austin Powers: International Man of Mystery (1997)",
+  "start": "A cryo-chamber beside a desk with an old beige computer.",
+  "end": "The desk thaws decades later, surrounded by equipment it can't plug into.",
+  "apocalypse": "A ruin of outdated equipment; a lime adapter connects the old to the new."
+ },
+ {
+  "id": 198,
+  "title": "Overqualified at the counter",
+  "inspired_by": "High Fidelity (2000)",
+  "start": "A record-store counter with a stack of list cards.",
+  "end": "Lists pile up; the queue waits; the stack topples.",
+  "apocalypse": "A record-shop ruin; a lime needle drops on one record."
+ },
+ {
+  "id": 199,
+  "title": "System erased you",
+  "inspired_by": "The Net (1995)",
+  "start": "An employee file folder on a desk.",
+  "end": "The file is erased; the badge stops opening doors, and the desk is cleared.",
+  "apocalypse": "A data-vault ruin; a lime file is restored to the drawer."
+ },
+ {
+  "id": 200,
+  "title": "Daily sample check",
+  "inspired_by": "Gattaca (1997)",
+  "start": "A sleek entry turnstile with a small sample reader, one lime light waiting at the gate.",
+  "end": "Each morning the check gets stricter; a second reader is bolted on, then a third, and the queue of badges snakes back through the lobby.",
+  "apocalypse": "A turnstile ruin in a vast, clean, abandoned lobby; a lime gate slides open beside the readers."
+ },
+ {
+  "id": 201,
+  "title": "Midnight reorg",
+  "inspired_by": "Dark City (1998)",
+  "start": "An office floor under a night sky seen through tall windows, desks in neat rows.",
+  "end": "At midnight the walls slide, floors rotate and desks rearrange while the lights are off; by morning nothing is where it was.",
+  "apocalypse": "A tangle of half-rotated floors and misplaced desks under a dark sky; a lime floor plan is laid out and walls lock into place."
+ },
+ {
+  "id": 202,
+  "title": "Daily re-onboarding",
+  "inspired_by": "50 First Dates (2004)",
+  "start": "An onboarding cassette and a welcome packet waiting on a fresh desk each morning.",
+  "end": "Each day starts from the same tape; welcome packets pile up, unread past page one.",
+  "apocalypse": "A shoreline ruin of unspooled tape and welcome packets; a lime cassette ejects with a single saved note."
+ },
+ {
+  "id": 203,
+  "title": "Photo-note handoff",
+  "inspired_by": "Memento (2000)",
+  "start": "A desk scattered with a few instant-photo notes, each with a blank caption strip.",
+  "end": "Context is lost between shifts; photos multiply, contradict each other and cover the walls in overlapping layers.",
+  "apocalypse": "A ruin of faded photos drifting across a motel-like courtyard; a lime thread links them in the right order."
+ },
+ {
+  "id": 204,
+  "title": "Seven-day countdown",
+  "inspired_by": "The Ring (2002)",
+  "start": "A countdown dial on a desk with seven lit segments beside one project folder.",
+  "end": "Segments go dark one by one while the folder stays unopened and tasks pile up around it.",
+  "apocalypse": "A stone-well-shaped ruin of stacked folders; a lime rope is lowered to lift the project out."
+ },
+ {
+  "id": 205,
+  "title": "Office chain reaction",
+  "inspired_by": "Final Destination (2000)",
+  "start": "A small desk fan pointed at a loose stack of paper next to a full coffee cup.",
+  "end": "One sheet lifts; it tips the cup, which shorts a power strip, which drops a shelf, which topples the next desk in a chain.",
+  "apocalypse": "A chain of toppled desks and shelves across a wide ruin; a lime stop block halts the last link."
+ },
+ {
+  "id": 206,
+  "title": "Golden ticket line",
+  "inspired_by": "Charlie and the Chocolate Factory (2005)",
+  "start": "A factory conveyor carrying neatly wrapped bars past a single inspection station.",
+  "end": "The line speeds up; wrappers tear and pile; the inspector station is buried in bars.",
+  "apocalypse": "A silent factory ruin with dried rivers and stopped belts; a lime conveyor restarts one lane."
+ },
+ {
+  "id": 207,
+  "title": "Frozen clock",
+  "inspired_by": "Clockstoppers (2002)",
+  "start": "An office clock frozen at 4:59, a desk beneath it.",
+  "end": "Everything freezes except the task pile on the desk, which keeps growing while the clock refuses to move.",
+  "apocalypse": "A frost-bound office ruin; a lime second hand begins to tick."
+ },
+ {
+  "id": 208,
+  "title": "Road not taken",
+  "inspired_by": "The Family Man (2000)",
+  "start": "A briefcase beside a toolbox at a fork in a miniature path.",
+  "end": "Two versions of the day split down each path, both piling up unfinished.",
+  "apocalypse": "Two ruined paths across a valley; a lime bridge joins them."
+ },
+ {
+  "id": 209,
+  "title": "Blinking drive",
+  "inspired_by": "Hackers (1995)",
+  "start": "A server rack with one blinking drive among dark ones.",
+  "end": "Drives blink everywhere, faster and faster, and the rack starts to overheat.",
+  "apocalypse": "A cooled server ruin in a dark hall; one lime drive glows steady."
+ },
+ {
+  "id": 210,
+  "title": "Sponsor clutter",
+  "inspired_by": "Wayne's World (1992)",
+  "start": "A small basement public-access TV set with two chairs and a single contract on the table.",
+  "end": "Sponsor products crowd onto the set, stacking on chairs and taping to the backdrop until the set is buried.",
+  "apocalypse": "A basement studio ruin under product rubble; a lime camera pans across one clean chair."
+ },
+ {
+  "id": 211,
+  "title": "Jump-to-conclusions mat",
+  "inspired_by": "Office Space (1999)",
+  "start": "A floor mat of answer squares beside a desk, one square glowing lime.",
+  "end": "Every decision is made by hopping onto a square; decisions pile up in random directions across the floor.",
+  "apocalypse": "A cracked, scattered mat across a ruin; a lime path shows the one sensible route."
+ },
+ {
+  "id": 212,
+  "title": "Ticket rail overload",
+  "inspired_by": "Waiting... (2005)",
+  "start": "A restaurant kitchen ticket rail with one order slip clipped to it.",
+  "end": "Slips crowd the rail, overlap and spill onto the pass; plates stack under heat lamps.",
+  "apocalypse": "A kitchen ruin under a drift of slips; a lime rail clips them back in order."
+ },
+ {
+  "id": 213,
+  "title": "Clock-tower deadline",
+  "inspired_by": "The Hudsucker Proxy (1994)",
+  "start": "A giant clock face on an office tower with a lime hand near midnight.",
+  "end": "The hand crawls toward the deadline while the floors below fill with unfinished work.",
+  "apocalypse": "A snowy tower ruin with a stopped clock; a lime gear restarts it."
+ },
+ {
+  "id": 214,
+  "title": "Airport form loop",
+  "inspired_by": "The Terminal (2004)",
+  "start": "A departure-gate counter with one stamped form and an empty queue.",
+  "end": "The form is rejected again and again; the traveller's belongings stack beside the gate as the days pass.",
+  "apocalypse": "A sunlit, empty terminal ruin; a lime gate finally lets one form through."
+ },
+ {
+  "id": 215,
+  "title": "Supply closet heist",
+  "inspired_by": "Ocean's Eleven (2001)",
+  "start": "A locked supply closet with a single request form taped to the door.",
+  "end": "The approval process is so slow that a heist-style plan unfolds across a table: blueprints, timers, laser-grid diagrams.",
+  "apocalypse": "A dismantled vault ruin; a lime key simply opens the closet."
+ },
+ {
+  "id": 216,
+  "title": "Admin-rights ceiling drop",
+  "inspired_by": "Mission: Impossible (1996)",
+  "start": "A white server room with one terminal needing a single permission.",
+  "end": "Getting the permission requires lowering through the ceiling on cables past sensors and alarms.",
+  "apocalypse": "A white room in ruins, ceiling tiles scattered; a lime access card sits in the reader."
+ },
+ {
+  "id": 217,
+  "title": "Paperwork twister",
+  "inspired_by": "Twister (1996)",
+  "start": "A single loose form on a desk near an open window.",
+  "end": "Wind catches the form, then the stack, and a spiralling column of paperwork rises over the office.",
+  "apocalypse": "A flattened plain strewn with paper after the storm; a lime anemometer spins calm and the forms are collected."
+ },
+ {
+  "id": 218,
+  "title": "Deadline asteroid",
+  "inspired_by": "Armageddon (1998)",
+  "start": "A small model asteroid hovering over a desk calendar.",
+  "end": "The asteroid grows as the deadline approaches; the desk team drills into it.",
+  "apocalypse": "A cratered ruin; a lime drill rig splits the asteroid."
+ },
+ {
+  "id": 219,
+  "title": "Prototype taken for production",
+  "inspired_by": "Galaxy Quest (1999)",
+  "start": "A cardboard-and-tape prototype on a stand, clearly a mock-up.",
+  "end": "The mock-up is treated as the real thing; parts are ordered, stands are built, launch plans form around it.",
+  "apocalypse": "A collapsed prop ruin; a lime frame builds the real one beside it."
+ },
+ {
+  "id": 220,
+  "title": "Monochrome office",
+  "inspired_by": "Pleasantville (1998)",
+  "start": "A monochrome grey office with one lime object on a desk.",
+  "end": "The grey spreads over every surface; routines repeat in black and white.",
+  "apocalypse": "A grey ruin where lime colour is spreading from one desk."
+ },
+ {
+  "id": 221,
+  "title": "Harvest quota",
+  "inspired_by": "A Bug's Life (1998)",
+  "start": "A small platform piled with a seasonal quota of grain.",
+  "end": "The quota doubles; the platform groans and the grain spills.",
+  "apocalypse": "A drought-cracked ruin; a lime conveyor delivers a fair load."
+ },
+ {
+  "id": 222,
+  "title": "Citation quota",
+  "inspired_by": "Super Troopers (2001)",
+  "start": "A ticket pad on a dashboard with a quota counter.",
+  "end": "Tickets are issued for everything until the pad runs empty and the counter spins.",
+  "apocalypse": "A snowy highway ruin; a lime counter resets."
+ },
+ {
+  "id": 223,
+  "title": "The call you can't leave",
+  "inspired_by": "Phone Booth (2002)",
+  "start": "A phone booth on a street corner with the receiver off the hook.",
+  "end": "Work calls keep the receiver tethered; the booth shrinks around it.",
+  "apocalypse": "A ruined street; a lime cord snaps free."
+ },
+ {
+  "id": 224,
+  "title": "Hospitality-suite vigil",
+  "inspired_by": "The Big Kahuna (1999)",
+  "start": "A hotel hospitality suite with a tray of snacks and one empty chair for the client.",
+  "end": "Hours pass, snacks go stale, the tray empties and refills and the chair stays empty.",
+  "apocalypse": "A dusty suite ruin; a lime chair is filled."
+ },
+ {
+  "id": 225,
+  "title": "Remote volleyball coworker",
+  "inspired_by": "Cast Away (2000)",
+  "start": "A home desk with a volleyball propped on the chair opposite.",
+  "end": "Isolation grows; notes and sticky messages pile around the ball.",
+  "apocalypse": "An island ruin of home-office gear; a lime raft signals a return to the office."
+ },
+ {
+  "id": 226,
+  "title": "Fifteen-minute escape hatch",
+  "inspired_by": "Being John Malkovich (1999)",
+  "start": "A small hatch behind a filing cabinet with a lime handle.",
+  "end": "Tasks queue up in front of it as everyone lines up for fifteen minutes away.",
+  "apocalypse": "A ruined filing floor; a lime hatch reopens."
+ },
+ {
+  "id": 227,
+  "title": "Dinner-table buzz",
+  "inspired_by": "The Devil Wears Prada (2006)",
+  "start": "A dinner table set for two with a phone face-down beside the plate.",
+  "end": "The phone buzzes, then again; plates cool as work floods in.",
+  "apocalypse": "A dinner-table ruin; a lime cloth drapes the phone."
+ },
+ {
+  "id": 228,
+  "title": "Dial-up handshake",
+  "inspired_by": "You've Got Mail (1998)",
+  "start": "A beige modem on a desk beside a tangle-free phone line.",
+  "end": "The connection screeches, drops, retries, drops again.",
+  "apocalypse": "A dusty modem ruin; a lime cable finally connects."
+ },
+ {
+  "id": 229,
+  "title": "Forecast board",
+  "inspired_by": "The Weather Man (2005)",
+  "start": "A weather map on an easel with one lime front line.",
+  "end": "The forecast is wrong; debris hits the board.",
+  "apocalypse": "A storm-battered ruin; a lime vane points steady."
+ },
+ {
+  "id": 230,
+  "title": "Synergy merger",
+  "inspired_by": "In Good Company (2004)",
+  "start": "Two small office models side by side, each with its own org blocks.",
+  "end": "They're pushed together; blocks overlap and duplicates are ejected.",
+  "apocalypse": "A merged ruin; a lime frame aligns one chart."
+ }
+]
