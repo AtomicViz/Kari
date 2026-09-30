@@ -5,7 +5,7 @@
   "aspect_ratio": "9:16",
   "sound": "on",
   "start_frames": "generated/9x16-start-manifest.json",
-  "note": "Concept 31 used the worked example prompt in video/SPEC.md rather than prompts-a.json. job_id is authoritative.",
+  "note": "Concept 31 used the worked example prompt in video/SPEC.md rather than prompts-a.json. URLs are verified against Higgsfield job records.",
   "videos": [
     {
       "id": 31,
@@ -13,7 +13,7 @@
       "set": "A (atmospheric)",
       "device": "timelapse of light",
       "job_id": "d5244eca-ab14-4a85-a580-779d178b5551",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041308_d5244eca-ab14-4a85-a580-779d178b5551.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041308_d5244eca-ab14-4a85-a580-779d178b5551.mp4"
     },
     {
       "id": 38,
@@ -21,7 +21,7 @@
       "set": "A (atmospheric)",
       "device": "lateral tracking shot along the day strip",
       "job_id": "93b04ceb-b1fb-4918-a31b-bd22a392f01b",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_93b04ceb-b1fb-4918-a31b-bd22a392f01b.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_93b04ceb-b1fb-4918-a31b-bd22a392f01b.mp4"
     },
     {
       "id": 41,
@@ -29,7 +29,7 @@
       "set": "A (atmospheric)",
       "device": "ping-pong whip pans that loop",
       "job_id": "0dcfa3ba-7861-428e-abf8-793ad3788389",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041921_0dcfa3ba-7861-428e-abf8-793ad3788389.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041921_0dcfa3ba-7861-428e-abf8-793ad3788389.mp4"
     },
     {
       "id": 42,
@@ -37,7 +37,7 @@
       "set": "A (atmospheric)",
       "device": "overhead top-down view of branching",
       "job_id": "f2ef1000-179b-4b95-adcc-687b6e5d25b1",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_f2ef1000-179b-4b95-adcc-687b6e5d25b1.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_f2ef1000-179b-4b95-adcc-687b6e5d25b1.mp4"
     },
     {
       "id": 44,
@@ -45,7 +45,7 @@
       "set": "A (atmospheric)",
       "device": "a single held bell note that snaps",
       "job_id": "74882a59-c91e-4b82-9834-e749d757ec03",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_74882a59-c91e-4b82-9834-e749d757ec03.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_74882a59-c91e-4b82-9834-e749d757ec03.mp4"
     },
     {
       "id": 47,
@@ -53,7 +53,7 @@
       "set": "A (atmospheric)",
       "device": "push-in through nested folds",
       "job_id": "f47118c7-cf83-42f4-8651-62f0d4974ec8",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_f47118c7-cf83-42f4-8651-62f0d4974ec8.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_f47118c7-cf83-42f4-8651-62f0d4974ec8.mp4"
     },
     {
       "id": 50,
@@ -61,7 +61,7 @@
       "set": "A (atmospheric)",
       "device": "rack focus between the lime tile and the drift",
       "job_id": "ae34659b-ef63-463f-bd4d-98fe566894c6",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_ae34659b-ef63-463f-bd4d-98fe566894c6.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_ae34659b-ef63-463f-bd4d-98fe566894c6.mp4"
     },
     {
       "id": 54,
@@ -69,7 +69,7 @@
       "set": "A (atmospheric)",
       "device": "slow orbit around the easel",
       "job_id": "28e04d7e-a31c-40a2-92b7-ba3c3780e9db",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_28e04d7e-a31c-40a2-92b7-ba3c3780e9db.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_28e04d7e-a31c-40a2-92b7-ba3c3780e9db.mp4"
     },
     {
       "id": 56,
@@ -77,7 +77,7 @@
       "set": "A (atmospheric)",
       "device": "match cut from a falling file to a falling boulder",
       "job_id": "0bfa20ad-5334-4f14-b485-0dda4129f42a",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_0bfa20ad-5334-4f14-b485-0dda4129f42a.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_0bfa20ad-5334-4f14-b485-0dda4129f42a.mp4"
     },
     {
       "id": 57,
@@ -85,7 +85,7 @@
       "set": "A (atmospheric)",
       "device": "dolly-zoom as pressure builds",
       "job_id": "b595b82f-614d-4a48-8356-271d30c81e0d",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_b595b82f-614d-4a48-8356-271d30c81e0d.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_b595b82f-614d-4a48-8356-271d30c81e0d.mp4"
     },
     {
       "id": 64,
@@ -93,7 +93,7 @@
       "set": "A (atmospheric)",
       "device": "speed ramp into slow motion at the break",
       "job_id": "0ed2a9e9-ee54-47d7-9720-4e97ed7f69f0",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_0ed2a9e9-ee54-47d7-9720-4e97ed7f69f0.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041920_0ed2a9e9-ee54-47d7-9720-4e97ed7f69f0.mp4"
     },
     {
       "id": 67,
@@ -101,7 +101,7 @@
       "set": "A (atmospheric)",
       "device": "locked-off frame that the chaos overfills",
       "job_id": "6c3c18ce-0f9e-430d-8220-18b988ee4bbb",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_6c3c18ce-0f9e-430d-8220-18b988ee4bbb.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_6c3c18ce-0f9e-430d-8220-18b988ee4bbb.mp4"
     },
     {
       "id": 74,
@@ -109,7 +109,7 @@
       "set": "A (atmospheric)",
       "device": "tilt-up following the growing tower",
       "job_id": "e6262989-b61a-4d06-81d1-6d0022f3d8c3",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_e6262989-b61a-4d06-81d1-6d0022f3d8c3.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_041954_e6262989-b61a-4d06-81d1-6d0022f3d8c3.mp4"
     },
     {
       "id": 78,
@@ -117,7 +117,7 @@
       "set": "A (atmospheric)",
       "device": "accelerating metronomic rhythm",
       "job_id": "14db9de3-9861-441a-bd08-51dc1e5ad72c",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_14db9de3-9861-441a-bd08-51dc1e5ad72c.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_14db9de3-9861-441a-bd08-51dc1e5ad72c.mp4"
     },
     {
       "id": 81,
@@ -125,7 +125,7 @@
       "set": "A (atmospheric)",
       "device": "stepped push-ins synced to each enlargement",
       "job_id": "bf5bf94d-1919-4a95-b25d-415973da1e31",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_bf5bf94d-1919-4a95-b25d-415973da1e31.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_bf5bf94d-1919-4a95-b25d-415973da1e31.mp4"
     },
     {
       "id": 88,
@@ -133,7 +133,7 @@
       "set": "A (atmospheric)",
       "device": "table-height slide with foreground parallax",
       "job_id": "d8a99d78-9eb2-4362-b587-b80d33e0364e",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_d8a99d78-9eb2-4362-b587-b80d33e0364e.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_d8a99d78-9eb2-4362-b587-b80d33e0364e.mp4"
     },
     {
       "id": 91,
@@ -141,7 +141,7 @@
       "set": "A (atmospheric)",
       "device": "the lime pennant is the last thing moving",
       "job_id": "3a06b6fe-d7be-4069-bfaf-8564c15f2536",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_3a06b6fe-d7be-4069-bfaf-8564c15f2536.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_3a06b6fe-d7be-4069-bfaf-8564c15f2536.mp4"
     },
     {
       "id": 93,
@@ -149,7 +149,7 @@
       "set": "A (atmospheric)",
       "device": "camera locked to the spinning desk",
       "job_id": "e00603e0-7154-4949-8cef-7c38327ae2f0",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042423_e00603e0-7154-4949-8cef-7c38327ae2f0.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042423_e00603e0-7154-4949-8cef-7c38327ae2f0.mp4"
     },
     {
       "id": 102,
@@ -157,7 +157,7 @@
       "set": "A (atmospheric)",
       "device": "speed ramp on the toppling mug",
       "job_id": "7e49668e-d8e6-4107-8ebe-5383faf5411f",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_7e49668e-d8e6-4107-8ebe-5383faf5411f.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_7e49668e-d8e6-4107-8ebe-5383faf5411f.mp4"
     },
     {
       "id": 106,
@@ -165,7 +165,7 @@
       "set": "A (atmospheric)",
       "device": "match cut from a tumbling parcel to a rolling boulder",
       "job_id": "e2122dd3-de04-486b-910e-1c0ddd9f248d",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_e2122dd3-de04-486b-910e-1c0ddd9f248d.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_e2122dd3-de04-486b-910e-1c0ddd9f248d.mp4"
     },
     {
       "id": 109,
@@ -173,7 +173,7 @@
       "set": "A (atmospheric)",
       "device": "motor sound that stalls into silence",
       "job_id": "ff077dcb-076c-41ac-ba50-abac74b4cff8",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_ff077dcb-076c-41ac-ba50-abac74b4cff8.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_ff077dcb-076c-41ac-ba50-abac74b4cff8.mp4"
     },
     {
       "id": 110,
@@ -181,7 +181,7 @@
       "set": "A (atmospheric)",
       "device": "the curling sheet wipes across the lens",
       "job_id": "249260c5-8e39-46f0-a5da-d1b6ab1af89c",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_249260c5-8e39-46f0-a5da-d1b6ab1af89c.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_249260c5-8e39-46f0-a5da-d1b6ab1af89c.mp4"
     },
     {
       "id": 113,
@@ -189,7 +189,7 @@
       "set": "A (atmospheric)",
       "device": "camera sinks with the answered card",
       "job_id": "cacd8089-e3f2-4091-a6bc-95a7a2b0d85d",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042423_cacd8089-e3f2-4091-a6bc-95a7a2b0d85d.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042423_cacd8089-e3f2-4091-a6bc-95a7a2b0d85d.mp4"
     },
     {
       "id": 121,
@@ -197,7 +197,7 @@
       "set": "A (atmospheric)",
       "device": "tracking shot following the rolling bead",
       "job_id": "6f328f73-f04f-458a-bbee-1c7997756649",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_6f328f73-f04f-458a-bbee-1c7997756649.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042422_6f328f73-f04f-458a-bbee-1c7997756649.mp4"
     },
     {
       "id": 128,
@@ -205,7 +205,7 @@
       "set": "A (atmospheric)",
       "device": "timelapse of light into Friday dusk",
       "job_id": "fdec5c4a-ce76-4496-bedd-ff07730325be",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_fdec5c4a-ce76-4496-bedd-ff07730325be.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042447_fdec5c4a-ce76-4496-bedd-ff07730325be.mp4"
     },
     {
       "id": 131,
@@ -213,7 +213,7 @@
       "set": "B (comedy, characters)",
       "device": "sitcom-timed deadpan pause",
       "job_id": "8611ce65-e25b-4e58-a345-501df2999244",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_8611ce65-e25b-4e58-a345-501df2999244.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_8611ce65-e25b-4e58-a345-501df2999244.mp4"
     },
     {
       "id": 132,
@@ -221,7 +221,7 @@
       "set": "B (comedy, characters)",
       "device": "stapler-level follow cam",
       "job_id": "dfa8d63e-1238-4f47-b11f-2db674d23e9e",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042126_dfa8d63e-1238-4f47-b11f-2db674d23e9e.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042126_dfa8d63e-1238-4f47-b11f-2db674d23e9e.mp4"
     },
     {
       "id": 133,
@@ -229,7 +229,7 @@
       "set": "B (comedy, characters)",
       "device": "speed ramp into slow-motion impact",
       "job_id": "ba1376fd-5858-4168-b80f-a31bd93bae5c",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042125_ba1376fd-5858-4168-b80f-a31bd93bae5c.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042125_ba1376fd-5858-4168-b80f-a31bd93bae5c.mp4"
     },
     {
       "id": 134,
@@ -237,7 +237,7 @@
       "set": "B (comedy, characters)",
       "device": "click-counted push-ins",
       "job_id": "22c0c100-36cf-4324-a926-bc5062e11e91",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_22c0c100-36cf-4324-a926-bc5062e11e91.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_22c0c100-36cf-4324-a926-bc5062e11e91.mp4"
     },
     {
       "id": 139,
@@ -245,7 +245,7 @@
       "set": "B (comedy, characters)",
       "device": "insomniac focus drift",
       "job_id": "e1145115-e894-4993-a702-b9b1fa4ca5be",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042126_e1145115-e894-4993-a702-b9b1fa4ca5be.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042126_e1145115-e894-4993-a702-b9b1fa4ca5be.mp4"
     },
     {
       "id": 155,
@@ -253,7 +253,7 @@
       "set": "B (comedy, characters)",
       "device": "dolly-zoom stair stretch",
       "job_id": "6d73a7eb-9e14-4887-b1e6-fe21029f4fee",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_6d73a7eb-9e14-4887-b1e6-fe21029f4fee.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_6d73a7eb-9e14-4887-b1e6-fe21029f4fee.mp4"
     },
     {
       "id": 156,
@@ -261,7 +261,7 @@
       "set": "B (comedy, characters)",
       "device": "whip-pan relay",
       "job_id": "9c74224f-07ac-482e-b767-19849c55117f",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_9c74224f-07ac-482e-b767-19849c55117f.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_9c74224f-07ac-482e-b767-19849c55117f.mp4"
     },
     {
       "id": 157,
@@ -269,7 +269,7 @@
       "set": "B (comedy, characters)",
       "device": "timelapse of light",
       "job_id": "7c294f08-2295-435c-a7b2-11b69e29c15c",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_7c294f08-2295-435c-a7b2-11b69e29c15c.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_7c294f08-2295-435c-a7b2-11b69e29c15c.mp4"
     },
     {
       "id": 158,
@@ -277,7 +277,7 @@
       "set": "B (comedy, characters)",
       "device": "overhead top-down stamp beat",
       "job_id": "6f975656-5eb1-4611-b960-762b97331c87",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_6f975656-5eb1-4611-b960-762b97331c87.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_6f975656-5eb1-4611-b960-762b97331c87.mp4"
     },
     {
       "id": 160,
@@ -285,7 +285,7 @@
       "set": "B (comedy, characters)",
       "device": "conveyor-locked lateral track",
       "job_id": "47cf2c4a-f3e4-4df1-966e-fe9857a4125a",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_47cf2c4a-f3e4-4df1-966e-fe9857a4125a.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_47cf2c4a-f3e4-4df1-966e-fe9857a4125a.mp4"
     },
     {
       "id": 163,
@@ -293,7 +293,7 @@
       "set": "B (comedy, characters)",
       "device": "push through the gap",
       "job_id": "ae1019a7-d2f6-4a0c-8fbe-994f7548280a",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_ae1019a7-d2f6-4a0c-8fbe-994f7548280a.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_ae1019a7-d2f6-4a0c-8fbe-994f7548280a.mp4"
     },
     {
       "id": 168,
@@ -301,7 +301,7 @@
       "set": "B (comedy, characters)",
       "device": "held ring that snaps",
       "job_id": "b6428c71-1a0d-42a6-bfa0-3494a78aacd0",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_b6428c71-1a0d-42a6-bfa0-3494a78aacd0.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_b6428c71-1a0d-42a6-bfa0-3494a78aacd0.mp4"
     },
     {
       "id": 173,
@@ -309,7 +309,7 @@
       "set": "B (comedy, characters)",
       "device": "rack focus from lime to chaos",
       "job_id": "e4aa3b59-3ef2-4b34-aee5-fd9b11ff7df1",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042536_e4aa3b59-3ef2-4b34-aee5-fd9b11ff7df1.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042536_e4aa3b59-3ef2-4b34-aee5-fd9b11ff7df1.mp4"
     },
     {
       "id": 176,
@@ -317,7 +317,7 @@
       "set": "B (comedy, characters)",
       "device": "launch-follow off the ramp",
       "job_id": "561929c1-6659-4c29-b8bf-e7658e654276",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_561929c1-6659-4c29-b8bf-e7658e654276.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_561929c1-6659-4c29-b8bf-e7658e654276.mp4"
     },
     {
       "id": 184,
@@ -325,7 +325,7 @@
       "set": "B (comedy, characters)",
       "device": "slow creeping zoom",
       "job_id": "7c021be6-2531-48f9-8774-a52fc6ac5181",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_7c021be6-2531-48f9-8774-a52fc6ac5181.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_7c021be6-2531-48f9-8774-a52fc6ac5181.mp4"
     },
     {
       "id": 186,
@@ -333,7 +333,7 @@
       "set": "B (comedy, characters)",
       "device": "copy-line dolly-back",
       "job_id": "e8b0b058-f90e-4df0-b45e-5db8dfc6e35e",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_e8b0b058-f90e-4df0-b45e-5db8dfc6e35e.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_e8b0b058-f90e-4df0-b45e-5db8dfc6e35e.mp4"
     },
     {
       "id": 189,
@@ -341,7 +341,7 @@
       "set": "B (comedy, characters)",
       "device": "suspense creep down the corridor",
       "job_id": "a157dd7b-a587-4a2e-b2ef-dce36013550d",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_a157dd7b-a587-4a2e-b2ef-dce36013550d.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_a157dd7b-a587-4a2e-b2ef-dce36013550d.mp4"
     },
     {
       "id": 190,
@@ -349,7 +349,7 @@
       "set": "B (comedy, characters)",
       "device": "listing horizon tilt then underwater descent",
       "job_id": "6677ecd2-e489-4730-8eb9-fcaadc9c129e",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_6677ecd2-e489-4730-8eb9-fcaadc9c129e.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_6677ecd2-e489-4730-8eb9-fcaadc9c129e.mp4"
     },
     {
       "id": 191,
@@ -357,7 +357,7 @@
       "set": "B (comedy, characters)",
       "device": "one-take heist precision",
       "job_id": "b433d85a-ad43-41a5-a3f3-f3b8a448e341",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042535_b433d85a-ad43-41a5-a3f3-f3b8a448e341.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042535_b433d85a-ad43-41a5-a3f3-f3b8a448e341.mp4"
     },
     {
       "id": 196,
@@ -365,7 +365,7 @@
       "set": "B (comedy, characters)",
       "device": "tabletop-level low tracking charge",
       "job_id": "0f421c57-1d2b-43f6-ba22-65810de40b9c",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_0f421c57-1d2b-43f6-ba22-65810de40b9c.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_0f421c57-1d2b-43f6-ba22-65810de40b9c.mp4"
     },
     {
       "id": 205,
@@ -373,7 +373,7 @@
       "set": "B (comedy, characters)",
       "device": "foreboding snap-zoom inserts",
       "job_id": "2f1d3063-8522-4bb3-97a0-005feaffc89e",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_2f1d3063-8522-4bb3-97a0-005feaffc89e.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_2f1d3063-8522-4bb3-97a0-005feaffc89e.mp4"
     },
     {
       "id": 207,
@@ -381,7 +381,7 @@
       "set": "B (comedy, characters)",
       "device": "time-freeze with only cards moving",
       "job_id": "d97435c1-30fd-4f0b-a609-1bdaeef7e1e7",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_d97435c1-30fd-4f0b-a609-1bdaeef7e1e7.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042514_d97435c1-30fd-4f0b-a609-1bdaeef7e1e7.mp4"
     },
     {
       "id": 212,
@@ -389,7 +389,7 @@
       "set": "B (comedy, characters)",
       "device": "accelerating tempo cuts",
       "job_id": "f39e9de4-e61a-4f3e-9868-fe5e654662e8",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042535_f39e9de4-e61a-4f3e-9868-fe5e654662e8.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042535_f39e9de4-e61a-4f3e-9868-fe5e654662e8.mp4"
     },
     {
       "id": 213,
@@ -397,7 +397,7 @@
       "set": "B (comedy, characters)",
       "device": "vertical tilt-down plunge",
       "job_id": "0fabbd83-dfa3-47d9-a3fa-0fed34b56dbe",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_0fabbd83-dfa3-47d9-a3fa-0fed34b56dbe.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042103_0fabbd83-dfa3-47d9-a3fa-0fed34b56dbe.mp4"
     },
     {
       "id": 217,
@@ -405,7 +405,7 @@
       "set": "B (comedy, characters)",
       "device": "spiral crane with the vortex",
       "job_id": "6e94d2ac-1471-4605-9313-a18271453d5b",
-      "url_unverified": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042914_6e94d2ac-1471-4605-9313-a18271453d5b.mp4"
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_31bQHnfzsgmX0WqKawru3PmTwww/hf_20260930_042914_6e94d2ac-1471-4605-9313-a18271453d5b.mp4"
     }
   ]
 }
